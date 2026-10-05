@@ -1,0 +1,56 @@
+[*]
+[*] GTKWave Analyzer v4.0.0-prealpha (132a086) (w)1999-2022 BSI
+[*] Mon Oct 05 00:32:31 2026
+[*]
+[dumpfile] "C:\Users\abbyl\OneDrive - Olin College of Engineering\VSCode\Verilog_FPGA\iceBlinkPico\CompArch26\miniproject2\mp2_full.vcd"
+[dumpfile_mtime] "Mon Oct 05 00:30:25 2026"
+[dumpfile_size] 405991
+[savefile] "C:\Users\abbyl\OneDrive - Olin College of Engineering\VSCode\Verilog_FPGA\iceBlinkPico\CompArch26\miniproject2\mp2_full.gtkw"
+[timestart] 0
+[size] 1374 600
+[pos] -34 -161
+*-37.719090 8195000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[markername] AA
+[markername] BB
+[markername] CC
+[markername] DD
+[markername] EE
+[markername] FF
+[markername] GG
+[markername] HH
+[markername] II
+[markername] JJ
+[markername] KK
+[markername] LL
+[markername] MM
+[markername] NN
+[markername] OO
+[markername] PP
+[markername] QQ
+[markername] RR
+[markername] SS
+[markername] TT
+[markername] UU
+[markername] VV
+[markername] WW
+[markername] XX
+[markername] YY
+[markername] ZZ
+[treeopen] tb_top.
+[sst_width] 280
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 147
+@28
+tb_top.dut.color_state[2:0]
+@10022
+tb_top.dut.pwm_red[10:0]
+tb_top.dut.pwm_green[10:0]
+@10023
+tb_top.dut.pwm_blue[10:0]
+@28
+tb_top.RGB_R
+tb_top.RGB_B
+tb_top.RGB_G
+[pattern_trace] 1
+[pattern_trace] 0
